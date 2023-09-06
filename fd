@@ -1,0 +1,16 @@
+const CONFIG = {
+    introTitle: 'Ba à!',
+    introDesc: `con có một mong muốn là được ba mua một cái ip, ip gì cung được ạa`,
+    btnIntro: 'hihi',
+    title: 'Ba có đồng ý không 😙',
+    desc: 'thật tuyệt nếu con được dùng ip😋  ',
+    btnYes: 'ok con <33',
+    btnNo: 'Không :3',
+    question:'ba đồng ý nha <3',
+    btnReply: 'Gửi cho con <3',
+    reply: 'ba đừng từ chối mà;v',
+    mess: 'con biết mà 🥰. Yêu ba nhiều nhiều 😘😘',
+    messDesc: 'ba mua con nha',
+    btnAccept: 'Ok luôn <3',
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
